@@ -2,12 +2,9 @@ Olá pessoal, bom dia.
 
 Coloque nesse arquivo, seu nome e RA.
 
-<<<<<<< HEAD
-=======
 Nome: Davi Ferreira de Souza RA: 241024676
 Nome: Gabriel Uemura Naka RA: 241024773
 Nome: Igor dos Reis Gomes RA: 241025265
 Nome: Giovani Andreoli RA: 251020738
->>>>>>> d0683835ff7f1b26e09620623469896220a0c40c
 
 Obrigado.
