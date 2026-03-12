@@ -1,0 +1,7 @@
+Olá pessoal, boa tarde.
+
+Esse diretório é para que subam as respostas dos exercícios da seguinte forma:
+
+nome_sobrenome-exer1.pdf
+
+Abraços.
