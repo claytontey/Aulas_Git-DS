@@ -1,0 +1,9 @@
+Esse diretório será utilizado única e exclusivamente para armazenar diretórios utilizados para o desenvolvimento do TP-I.
+
+Cada dupla deverá criar seu subdiretório contendo seus respectivos nomes (ex: joao_maria), onde serão armazenados toda parte estrutural do codigo desenvolvido para a realização da tarefa.
+
+Arquivos fora do seu diretório, não serão considerados, sendo essa faze de desenvolvimento, também avaliada na composição da nota final do referido trabalho.
+
+Abraços.
+
+
