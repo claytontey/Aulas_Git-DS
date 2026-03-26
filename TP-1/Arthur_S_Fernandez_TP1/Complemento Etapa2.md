@@ -42,7 +42,7 @@ Filtragem de informações significativas
 
 # Análise da desigualdade educacional
 
-Os gráficos mostram que a distribuição da escolaridade no Brasil não é homogênea. Nota-se que:
+Os gráficos mostram que a distribuição da escolaridade no Brasil não é homogênea. É possível concluir perceber que:
 
 Existem diferenças notáveis entre as regiões, sendo que as regiões Sudeste e Sul apresentam uma maior proporção de pessoas com níveis mais altos de escolaridade em relação às regiões Norte e Nordeste.
 A análise por cor ou raça mostra diferenças significativas, apontando que grupos como pessoas pretas e pardas têm, em média, menor acesso a graus mais altos de escolaridade.
