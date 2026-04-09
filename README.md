@@ -6,4 +6,4 @@ Agora, esse nosso # README, conterá as informações da organização do nosso 
 
 * Aula 04 - Trabalho Pratico I ([Instruções](https://github.com/claytontey/Aulas_Git-DS/blob/main/TP-1/instrucoes.txt), ([src](https://github.com/claytontey/Aulas_Git-DS/tree/main/TP-1))).
 
-* Aula 05 - Estatística II ([Dataset](https://github.com/claytontey/Aulas_Git-DS/blob/main/Estatistica/dataset_estudo_estatistica.csv), ([Exercícios](https://github.com/claytontey/Aulas_Git-DS/blob/main/Estatistica/notebook_alunos.ipynb))).
+* Aula 05 - Estatística II ([Dataset](https://github.com/claytontey/Aulas_Git-DS/blob/main/Estatistica/dataset_estudo_estatistica.csv), ([Exercícios](https://github.com/claytontey/Aulas_Git-DS/blob/main/Estatistica/notebook_alunos.ipynb)), ([Resposta_Exercícios](https://github.com/claytontey/Aulas_Git-DS/tree/main/Estatistica/resp_exer-Estatistica))).
